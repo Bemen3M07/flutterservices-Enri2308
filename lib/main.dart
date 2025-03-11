@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'Exercici_2/providers/car_provider.dart';
-import 'Exercici_2/screens/car_screen.dart';
+import 'Exerciciiiiiiii/providers/car_provider.dart';
+import 'Exerciciiiiiiii/screens/car_screen.dart';
 
 void main() {
   runApp(

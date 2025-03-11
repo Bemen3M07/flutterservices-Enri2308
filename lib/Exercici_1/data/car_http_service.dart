@@ -5,9 +5,8 @@ import 'package:http/http.dart' as http;
 // import 'package:rentcar/utils/const_app.dart';
 
 class CarHttpService {
-  final String _serverUrl = "https://car-data.p.rapidapi.com";
-  final String _headerKey =
-      "7c00063cc0mshd06eb3f7234b024p167924jsn67c78b190f6a";
+  final String _serverUrl = "https://car-data.p.rapidapi.com/cars?limit=10&page=0";
+  final String _headerKey = "6500c7126dmsh921a2abebf58478p1fd9f0jsn16ce086d3e04";
   final String _headerHost = "car-data.p.rapidapi.com";
 
   /*
